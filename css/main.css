@@ -658,6 +658,9 @@ h3 {
       -o-object-position: top;
          object-position: top; }
 
+.mySwiper {
+  overflow: hidden; }
+
 .swiper-button-next, .swiper-button-prev {
   top: 95% !important;
   background: #ffffff !important;
